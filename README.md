@@ -15,8 +15,7 @@ ISCX VPN-NonVPN(VPN):
 [Download Dataset](https://www.unb.ca/cic/datasets/vpn.html)
 
 The original dataset has been constructed into heterogeneous graphs:
-[Download]([https://www.unb.ca/cic/datasets/vpn.html](https://drive.google.com/drive/folders/1A1fuuPnYrbzOm65ry9mRBhsYKIePBUpl?usp=drive_link))
-
+[Download](https://drive.google.com/drive/folders/1A1fuuPnYrbzOm65ry9mRBhsYKIePBUpl?usp=drive_link)
 
 ## Operation
 Construction of Heterogeneous Graphs Samples: python DTT-creat.py
