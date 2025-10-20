@@ -22,10 +22,12 @@ Construction of Heterogeneous Graphs Samples: python DTT-creat.py
 Pre-training: 
 ```bash
 python pretraining.py
+```
 
 Fine-tuning: 
 ```bash
 python fintuning.py
+```
 
 ## E-mail
 If you have any question, please feel free to contact us by e-mail (jiangtaozhai@nuist.edu.cn).
