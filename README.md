@@ -3,18 +3,20 @@
 
 We understand that validating the model architecture and training process is crucial for peer review.
 Therefore, we provide:
-1. Complete model architecture(DTTmodel.py)
-2. Construction of Heterogeneous Graphs Samples(DTT-creat.py)
-3. Pre-training and fine-tuning scripts(pretraining.py\fintuning.py)
-4. Pre-trained model weights
-5. A preprocessed sample dataset(ISCX VPN-NonVPN(VPN))
+* Complete model architecture(DTTmodel.py)
+* Construction of Heterogeneous Graphs Samples(DTT-creat.py)
+* Pre-training and fine-tuning scripts(pretraining.py\fintuning.py)
+* Pre-trained model weights
+* A preprocessed sample dataset(ISCX VPN-NonVPN(VPN))
 
 The specific hyperparameters have been indicated in the paper.
 ## Datasets
 ISCX VPN-NonVPN(VPN): 
 [Download Dataset](https://www.unb.ca/cic/datasets/vpn.html)
 
-The original dataset has been constructed into heterogeneous graphs:https://drive.google.com/drive/folders/1A1fuuPnYrbzOm65ry9mRBhsYKIePBUpl?usp=drive_link
+The original dataset has been constructed into heterogeneous graphs:
+[Download]([https://www.unb.ca/cic/datasets/vpn.html](https://drive.google.com/drive/folders/1A1fuuPnYrbzOm65ry9mRBhsYKIePBUpl?usp=drive_link))
+
 
 ## Operation
 Construction of Heterogeneous Graphs Samples: python DTT-creat.py
